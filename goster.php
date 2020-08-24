@@ -14,7 +14,7 @@ $row = $stmt->fetch();
 <head>
     <meta charset="utf-8">
     <title><?php echo $row['baslik'];?></title>
-    
+    <link rel="stylesheet" href="style.css">
 	
  
 	<style>
@@ -28,7 +28,7 @@ $row = $stmt->fetch();
 </head>
 <body>
 
-	<div class="govde">
+	<article>
 
 		
 		
@@ -44,7 +44,7 @@ $row = $stmt->fetch();
 			
 		?>
 
-	</div>
+	</article>
 
 
 

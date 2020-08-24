@@ -21,8 +21,8 @@ body{background:url(images/blue.png)}
 .link:hover{color:skyblue;}
 </style>
 <header>
-  <h1 style="color:white">ARTIK BENİM BLOG SAYFAM</h1>
-  <h2 style="color:white">Bilişim dünyası</h2>
+  <h1 style="color:white">Yazılım Dünyası</h1>
+  <h2 style="color:white">BLOG</h2>
 </header>
 <section>
 <article>
