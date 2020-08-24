@@ -28,7 +28,7 @@ $row = $stmt->fetch();
 </head>
 <body>
 
-	<article>
+	<div class="govde">
 
 		
 		
@@ -44,7 +44,7 @@ $row = $stmt->fetch();
 			
 		?>
 
-	</article>
+	</div>
 
 
 
